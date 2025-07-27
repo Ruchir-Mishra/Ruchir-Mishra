@@ -9,8 +9,8 @@
 
     🏫 Completed My High school From Dps Rewari,Haryana - India 
     🎓 Pursuing Btech in Artificial Intellegence and Machine Learning (class of 2029)
-    🔭 I’m currently learning Python & Computer Vision.
-    🌱 Exploring AI/ML, Deep Learning, and Robotics.  
+    📚 I’m currently learning Python & Computer Vision.
+    🔭 Exploring AI/ML, Deep Learning, and Robotics.  
     🧑‍🎓 Lifelong Learner.
     👨‍💻 Hardcore Coder.
 
