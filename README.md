@@ -27,6 +27,8 @@
 
 #### 🌐 Lets Connect ✉️:
 <p1>      📧 Mail me : <p><a href="ruchimishra28@gmail.com">ruchirmishra28@gmail.com</a>
-<p2>       🔗 Linkedin: <a href="https://www.linkedin.com/in/ruchir-mishra-980552366/>My Linkedin Profile</a> 
+
+
+<p2>      🔗 Linkedin: <a href="https://www.linkedin.com/in/ruchir-mishra-980552366">My Linkedin Profile</a> 
 
 ### Thanks.
