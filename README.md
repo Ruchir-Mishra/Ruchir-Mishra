@@ -2,17 +2,17 @@
 
 <!-- This is the HTML Portion -->
  <p align="centre">
-   <b>🚀 AI/ML Explorer | Python Dev | CV • NLP • Robotics🤖<br>
-   <b>🧠 Passionate about solving real-world problems with code<br>
+   <b>🚀 AI/ML Explorer | Python Dev | CV • NLP • Deep learning🤖<br>
+   <b>🧠 Passionate about solving real-world problems with code <br>
 
 ### ℹ️ About Me 🧑🏻‍💻:
 
     🏫 Completed My High school From Dps Rewari,Haryana - India 
-    🎓 Pursuing Btech in Computer Science @BML Munjal University. (class of 2029)
+    🎓 Pursuing B.Tech in Computer Science @BML Munjal University. (class of 2029)
     📚 I’m currently learning Python & Computer Vision.
     🔭 Exploring AI/ML, Deep Learning, and Robotics.  
     🧑‍🎓 Lifelong Learner.
-    👨‍💻 Hardcore Coder.
+    👨‍💻 CodeTender
 
 ### ⚙️ Tech Stack 💻:
     🐍 Python 
