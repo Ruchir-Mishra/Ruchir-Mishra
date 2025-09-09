@@ -2,28 +2,33 @@
 
 <!-- This is the HTML Portion -->
  <p align="centre">
-   <b>🚀 AI/ML Explorer | Python Dev | CV • NLP • Deep learning🤖<br>
-   <b>🧠 Passionate about solving real-world problems with code <br>
+   <b>😶‍🌫️ Cloud Enthusisast | Automation Scripter | Aspiring Cloud and DevOps engineer • Ubuntu LTS • Gitbash 🧑‍💻<br>
+   <b> 😺 Learning and creater simultaneously  <br>
 
 ### ℹ️ About Me 🧑🏻‍💻:
 
     🏫 Completed My High school From Dps Rewari,Haryana - India 
     🎓 Pursuing B.Tech in Computer Science @BML Munjal University. (class of 2029)
-    📚 I’m currently learning Python & Computer Vision.
-    🔭 Exploring AI/ML, Deep Learning, and Robotics.  
+    📚 I’m currently learning Python, C, GIt cli and Ubuntu 22 LTS.
+    🔭 Exploring Ubuntu,Dev Ops , linux , python and cloud. 
     🧑‍🎓 Lifelong Learner.
-    👨‍💻 CodeTender
+    👨‍💻 CodeTender.
 
 ### ⚙️ Tech Stack 💻:
     🐍 Python 
     🕸️ Web Development
-    👀 Computer Vision
+    🐧 linux (ubuntu lts)
+    ☁️ Cloud
+    🐈 Github and Git
+    
 
 ###  🎯 Goals 📈:
-    🧠 Contribute to AI/ML open source projects.
-    🧑🏻‍🔬 Pursue research opportunities and eventually dive deeper.
-    💡 Build meaningful, intelligent systems that solve real-world problems.
+    🧠 Contribute to cloud open source projects.
+    🧑🏻‍🔬 Develop optinat soluions and creative automatin scripts.
+    💡 Build meaningful, intelligent solutions and advancing in DevOps Engineering.
 
+
+# Please do find have look at my works.
 
 #### 🌐 Lets Connect ✉️:
 
